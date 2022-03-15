@@ -2458,8 +2458,7 @@ input, select, textarea {
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
-		margin-top: 10px;
-		margin-bottom: 5px;
+		margin-top: 18px;
 	}
 
 		input[type="submit"]:hover,
