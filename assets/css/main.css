@@ -2458,6 +2458,7 @@ input, select, textarea {
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
+		margin-top: 20px;
 	}
 
 		input[type="submit"]:hover,
@@ -2596,7 +2597,7 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), url("../../images/IMG_3583.jpeg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
-		background-size: auto,								150%;
+		background-size: auto,								151%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
