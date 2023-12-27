@@ -162,8 +162,10 @@ cython_debug/
 amazon_recommendation_tool
 best_business_recommendation
 real_estate_regression
+flight_delay_prediction
 orchestrate
 .DS_Store
+html5up-strata-2
 .RData
 .Rhistory
-.zip
+*.zip
