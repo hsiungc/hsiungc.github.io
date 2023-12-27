@@ -167,6 +167,7 @@ orchestrate
 face_detection_app
 multinode_ddp
 ml_api
+toxic_classification
 .DS_Store
 html5up-strata-2
 .RData
